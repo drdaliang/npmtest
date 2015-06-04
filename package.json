@@ -6,9 +6,18 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "drdaliang",
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdaliang/npmtest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drdaliang/npmtest/issues"
+  },
+  "homepage": "https://github.com/drdaliang/npmtest#readme"
 }
